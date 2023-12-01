@@ -20,7 +20,7 @@ double pythagoras(double xcomp,double ycomp){
 void showResult(double result_vec_length, double result_vec_direction){
     cout << "%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%"<< endl;
     cout << "Length of the resultant vector = " <<result_vec_length<< endl;
-    cout << "Direction of the second vertor (deg) = "<<result_vec_direction<< endl ;
+    cout << "Direction of the resultant vector (deg) = "<<result_vec_direction<< endl ;
     cout << "%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%";   
 }
 int main(){
